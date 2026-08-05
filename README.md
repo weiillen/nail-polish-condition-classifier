@@ -131,6 +131,4 @@ git clone <repository-url>
 
 The included presentation reports an earlier 90.2% experiment. The later final report and final training notebook record the 98.66% full-distribution test result summarized above. Both are retained to show the development of the project rather than replacing the earlier artifact.
 
-## Source preservation
 
-The notebooks and checkpoint are included without source-code refactoring or behavioral changes. Only repository-level documentation, organization, extracted notebook figures, Git ignore rules, and Git LFS configuration were added. The hashes in `ORIGINAL_FILE_MANIFEST.tsv` can be used to verify the preserved artifacts against the uploaded archive.
