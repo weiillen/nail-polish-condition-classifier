@@ -69,8 +69,6 @@ The training notebook uses:
 ```text
 .
 ├── README.md
-├── requirements.txt
-├── ORIGINAL_FILE_MANIFEST.tsv
 ├── assets/
 │   ├── training-accuracy.png
 │   └── training-loss.png
