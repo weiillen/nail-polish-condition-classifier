@@ -112,12 +112,6 @@ jupyter notebook
 
 The dataset is not distributed with this repository. The original notebooks also contain absolute local paths and are preserved unchanged, so those path constants must be adjusted in a local copy before rerunning the pipeline. See [`docs/reproducibility.md`](docs/reproducibility.md) for the expected sequence and recorded dataset counts.
 
-The checkpoint is tracked with Git LFS. Clone with Git LFS enabled to obtain the model contents:
-
-```bash
-git lfs install
-git clone <repository-url>
-```
 
 ## Scope and limitations
 
